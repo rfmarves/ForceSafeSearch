@@ -10,6 +10,12 @@
 # Force strict search on Bing
 204.79.197.220 bing.com
 
+# Force Safe YouTube
+# Moderate filter
+216.239.38.119 youtube.com www.youtube.com m.youtube.com youtubei.googleapis.com youtube.googleapis.com youtube-nocookie.com www.youtube-nocookie.com
+# Strict filter (commented out for now)
+# 216.239.38.120 youtube.com www.youtube.com m.youtube.com youtubei.googleapis.com youtube.googleapis.com youtube-nocookie.com www.youtube-nocookie.com
+
 # Force Google Safe search across all domains
 # domain list from https://www.google.com/supported_domains
 # last updated on Apr 23, 2019
