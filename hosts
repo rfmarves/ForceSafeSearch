@@ -20,6 +20,9 @@
 # Block Yandex.com. It doesn't allow proper safe searching
 127.0.0.0 www.yandex.com yandex.com
 
+# Block startpage.com. It doesn't allow proper safe searching
+127.0.0.0 www.startpage.com startpage.com
+
 # Force Google Safe search across all domains
 # domain list from https://www.google.com/supported_domains
 # last updated on Apr 23, 2019
